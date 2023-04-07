@@ -17,6 +17,6 @@ def bubble_sort(v):
 
 vetor = list(range(0, 10))
 random.shuffle(vetor)
-#print("Não ordenado \n", vetor, "\n")
+print("Não ordenado \n", vetor, "\n")
 bubble_sort(vetor)
-#print("Ordenado \n", vetor)
+print("Ordenado \n", vetor)
